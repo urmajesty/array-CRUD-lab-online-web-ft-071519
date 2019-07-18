@@ -2,7 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array = new.array
+def create_an_array = array.new
+  puts 
   
 end
 
