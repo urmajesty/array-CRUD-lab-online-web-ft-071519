@@ -2,7 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array = array.new [house, dog, car, movie]
+def create_an_array = array.new
+  puts[house, dog, car, movie]
 end
 
 def add_element_to_end_of_array(array, element)
