@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  puts array.new["house", "dog", "car", "movie"]
+  puts array["house", "dog", "car", "movie"]
 end
 
 def add_element_to_end_of_array(array, element)
